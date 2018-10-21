@@ -1,6 +1,6 @@
-#Spring Boot + OAuth2
+# Spring Boot + OAuth2
 
-This is a Spring Boot + OAuth2 + Okta project.
+This is a Spring Boot + OAuth2 + Okta.
 
 I have created this small project get the access token from Okta
 passing the username and password.
